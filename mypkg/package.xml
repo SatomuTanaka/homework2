@@ -3,7 +3,7 @@
   <name>mypkg</name>
   <version>1.0.0</version>
   <description>coment system</description>
-  <maintainer email="s16c1082ke@s.chibakoudai.jp">Ryuichi Ueda, Satomu Tanaka</maintainer>
+  <maintainer email="s16c1082ke@s.chibakoudai.jp">Ryuichi Ueda, Ssatomu Tanaka</maintainer>
   <license>BSD</license>
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>rospy</build_depend>
