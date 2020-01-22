@@ -3,10 +3,10 @@
 
 使用した言語はpythonである。今回作成したプログラムはraw_inputを用いてキーボードからの入力を取得、入力された文字列に応じた文章をPublishし、表示するプログラムで用意されている文字列は以下の３つである。
 
-乃木坂
+nogi
 
-欅坂
+keyaki
 
-日向坂
+hinata
 
 上記の文字列を入力後、enterkeyを押すとコメントがPublisherからPublishされ、Subscriberがそれを参照しログとして表示する。また、プログラムの詳細をpackage.xmlに記述してある。
