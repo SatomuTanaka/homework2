@@ -9,4 +9,7 @@ keyaki
 
 hinata
 
-上記の文字列を入力後、enterkeyを押すとコメントがPublisherからPublishされ、Subscriberがそれを参照しログとして表示する。また、プログラムの詳細をpackage.xmlに記述してある。
+上記の文字列を入力後、enterkeyを押すとコメントがPublisherからPublishされ、Subscriberがそれを参照しログとして表示する。また、プログラムの詳細をpackage.xmlに記述してある
+
+＃動画
+https://www.youtube.com/watch?v=-6GEZ3Ig4zA
